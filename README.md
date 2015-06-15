@@ -20,7 +20,6 @@ Copyright 2015- Jon Gentle
 
 # LICENSE
 
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+This is free software. You may redistribute copies of it under the terms of the Artistic License 2 as published by The Perl Foundation.
 
 # SEE ALSO
